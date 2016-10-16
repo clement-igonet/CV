@@ -1,7 +1,7 @@
 <table width="100%">
 	<tr>
 		<td style="vertical-align:top;" align="left">
-			<h1>DevOps - Intégration Continue</h1>
+			<h1>Architecte technique DevOps</h1>
 			Curriculum Vitae
 		</td>
 		<td style="vertical-align:bottom;" align="right" width="22%">
@@ -18,9 +18,7 @@
 
 ----
 
->  DevOps - 10 ans d'expérience en développement logiciel
-
-DevOps, expérimenté en développement logiciel, je propose mes compétences en
+Architecte technique DevOps, expérimenté en développement logiciel, je propose mes compétences en
 industrialisation logicielle (architecture de serveurs, intégration continue, automatisation des tests, virtualisation des environnements).
 
 ----
@@ -28,18 +26,19 @@ industrialisation logicielle (architecture de serveurs, intégration continue, a
 Compétences
 --------------------
 
+Virtualisation d'environnements
+:   * Virtualisation complète de machines (linux, windows, mac)
+    * Création et déploiement de micro services
+ 		* Outils maîtrisés: cli virtualbox, packer, vagrant, ansible, docker, caddy
+
 Industrialisation logicielle
 :   * Mise en place de chaînes d'intégration continue (maven, jenkins, nexus)
     * Automatisation de livrables logiciels (msi, bitrock, RPM, DEB, DMG)
     * Outils maîtrisés: git, Maven, JIRA, Redmine, Pandoc, JUnit, Sonar, bash
 
-Virtualisation d'environnements
-:   * Virtualisation complète de machines (linux, windows, mac) et de micro services
-    * Outils maîtrisés: cli virtualbox, packer, vagrant, ansible, docker, caddy
-
 Développement logiciel
 :	* Langages: Javascript, C/C++, JAVA, PHP, shell/bash
-	* IDE: Atom, Netbeans, vim
+	* IDE: Atom, vim, Netbeans, Eclipse
 
 Gestion de projet
 :	* Planification de projets, analyse des besoins, rédaction de spécifications système/logiciel, plans de tests, gestion et suivi des exigences
@@ -53,29 +52,31 @@ Expériences professionnelles
 --------------------
 
 2014-2016
-: ***Ingénieur DevOps** chez [Mentor Graphics](http://www.galaxysemi.com/)*
+: ***Ingénieur DevOps** chez [Mentor Graphics](http://www.mentor.com/)*
 	(site de Dourdan, France).
 
-* Livraisons logicielles automatisées, suivi des dépendances et versions
-* Mise en place d'outils d'intégration continue avec Jenkins
 * Virtualisation complète des environnement de compilation et de tests
 * Automatisation des tests et scenarios, génération de rapports de tests
+* Mise en place d'outils d'intégration continue pilotés par Jenkins
+* Livraisons logicielles automatisées, suivi des dépendances et versions
 
 2014-2016
-: ***Responsable du projet [OpenEarthView](http://www.openearthview.net/)***
+: ***Architecte logiciel pour le projet [OpenEarthView](http://www.openearthview.net/)***
 	(projet perso, licence MIT).
 
-* Développement d'interface graphique 3D web (three.js, bootstrap.js) et de micro services web (Node.js)
 * Administration de serveurs (ansible)
+* Mise en place de micro services web (javascript & node.js)
+* Développement d'interface graphique 3D web (three.js, bootstrap.js)
 
 2013-2014
 : ***Chef de projet développement C/C++ système embarqué** chez [DEF](http://def-online.com)*
 	(Massy, France).
 
 * Architecture et développement d'un système embarqué [uCLinux](http://www.uclinux.org/) pour mise en ligne (internet) des reports d'évènements de centrales incendie.
+* Déploiement sur site client
 
 2010-2013
-: ***Ingénieur étude et développement** chez [DEF](http://def-online.com)*
+: ***Ingénieur étude et développement Java** chez [DEF](http://def-online.com)*
 	(Massy, France).
 
 * Développement JAVA/Swing d'un superviseur incendie 3D en OpenGL,
@@ -87,15 +88,15 @@ Expériences professionnelles
 * Présentations des solutions logicielles aux clients.
 
 2008-2010
-:	***Ingénieur recherche & développement Java** chez [CRYPTOLOG](http://www.cryptolog.com)* (Paris, France).
+:	***Ingénieur R&D Java** chez [CRYPTOLOG](http://www.cryptolog.com)* (Paris, France).
 
-* Développement protocole réseau TCP over Ethernet (languages Java et C)
-* Intégration de signatures électroniques au système d'échanges de données commerciales à l'international (standard EDIFACT/EANCOM).
+* Développement d'un protocole réseau (TCP over Ethernet, languages Java et C)
+* Intégration de signatures électroniques pour échanges EDI/EANCOM
 * Obfuscation de code avec Proguard pour édition de logiciels clients.
 * Tests de robustesse sur applications web.
 * Analyse de risques EBIOS et ISO 27005, rédaction de politiques de sécurité et mises en application.
 
-2008
+2008 (6 mois)
 :	***Création d'entreprise** de production et import de textiles* (Paris, France / Ho Chi Minh Ville, Vietnam)
 
 * Modélisation de produits textiles, études packaging.
@@ -103,7 +104,7 @@ Expériences professionnelles
 * Gestion administrative et comptabilité, démarche auprès des marques de distribution.
 
 2005-2008
-:	***Chef de projet Java JEE** à la [DRH de l'Armée de Terre](http://www.defense.gouv.fr/terre/presentation/directions-commandements-et-centres/ressources-humaines/direction-des-ressources-humaines-de-l-armee-de-terre) (Paris)*
+:	***Chef de projet Java JEE** à la [DRH de l'Armée de Terre](http://www.defense.gouv.fr/terre/l-armee-de-terre-au-contact/les-grands-commandeurs/drhat) (Paris)*
 
 * Développement d'application JAVA/JEE pour gestion R.H. avec interaction avec SAP, maintenance, corrections de failles et optimisation de traitements, extraction d'informations de documents MS Word vers BDD Oracle.
 * Planification de projet et encadrement d'une équipe de développeurs (4 personnes).
